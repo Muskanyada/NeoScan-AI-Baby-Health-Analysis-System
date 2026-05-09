@@ -87,7 +87,7 @@ NeoScan-AI/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/NeoScan-AI.git
+git clone https://github.com/Muskanyada/NeoScan-AI-Baby-Health-Analysis-System.git
 ```
 
 ---
@@ -95,7 +95,7 @@ git clone https://github.com/your-username/NeoScan-AI.git
 ## 2️⃣ Navigate to Project Directory
 
 ```bash
-cd NeoScan-AI
+cd NeoScan-AI-Baby-Health-Analysis-System
 ```
 
 ---
@@ -125,10 +125,10 @@ pip install -r requirements.txt
 
 # ▶️ How to Run the Project
 
-## Run Jupyter Notebook
+## Run Google collab
 
 ```bash
-jupyter notebook
+Google collab
 ```
 
 Then open the required module notebook:
